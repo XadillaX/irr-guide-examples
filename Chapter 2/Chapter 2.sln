@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicTemplateApplication", "BasicTemplateApplication\BasicTemplateApplication.vcxproj", "{81A0590E-6D59-408E-A10F-2B294B74F9E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameLoop", "GameLoop\GameLoop.vcxproj", "{12BD8037-8D7E-4A9A-98E9-0CD16ADD4C46}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FadeInNFadeOut", "FadeInNFadeOut\FadeInNFadeOut.vcxproj", "{29FF8EDB-BFFF-4441-98D6-B0CCE8198C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A0590E-6D59-408E-A10F-2B294B74F9E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81A0590E-6D59-408E-A10F-2B294B74F9E1}.Debug|Win32.Build.0 = Debug|Win32
+		{81A0590E-6D59-408E-A10F-2B294B74F9E1}.Release|Win32.ActiveCfg = Release|Win32
+		{81A0590E-6D59-408E-A10F-2B294B74F9E1}.Release|Win32.Build.0 = Release|Win32
+		{12BD8037-8D7E-4A9A-98E9-0CD16ADD4C46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12BD8037-8D7E-4A9A-98E9-0CD16ADD4C46}.Debug|Win32.Build.0 = Debug|Win32
+		{12BD8037-8D7E-4A9A-98E9-0CD16ADD4C46}.Release|Win32.ActiveCfg = Release|Win32
+		{12BD8037-8D7E-4A9A-98E9-0CD16ADD4C46}.Release|Win32.Build.0 = Release|Win32
+		{29FF8EDB-BFFF-4441-98D6-B0CCE8198C75}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29FF8EDB-BFFF-4441-98D6-B0CCE8198C75}.Debug|Win32.Build.0 = Debug|Win32
+		{29FF8EDB-BFFF-4441-98D6-B0CCE8198C75}.Release|Win32.ActiveCfg = Release|Win32
+		{29FF8EDB-BFFF-4441-98D6-B0CCE8198C75}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
