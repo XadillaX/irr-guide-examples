@@ -1,0 +1,281 @@
+newmtl mat0
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_P2.tga
+
+newmtl mat1
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_P2.tga
+
+newmtl mat2
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 0.98
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat3
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat4
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat5
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat6
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat7
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat8
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat9
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat10
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_P2.tga
+
+newmtl mat11
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_BS_t.bmp
+
+newmtl mat12
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_BS_t.bmp
+
+newmtl mat13
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_BS_t.bmp
+
+newmtl mat14
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_BS_t.bmp
+
+newmtl mat15
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_SWD2_2.bmp
+
+newmtl mat16
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+
+newmtl mat17
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_BS_t.bmp
+
+newmtl mat18
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_BS_t.bmp
+
+newmtl mat19
+Ka 0.0666667 0.443137 0.435294
+Kd 0.0117647 0.870588 0.807843
+Ks 0.239216 0.239216 0.239216
+Ns 5
+d 1
+
+newmtl mat20
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.07 0.07 0.07
+Ns 6
+d 0.98
+map_Kd ./TX/tex_01s.tga
+
+newmtl mat21
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_SWD2_2.bmp
+
+newmtl mat22
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_SWD2_2.bmp
+
+newmtl mat23
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat24
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_P2.tga
+
+newmtl mat25
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_P2.tga
+
+newmtl mat26
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_P2.tga
+
+newmtl mat27
+Ka 0.101961 0.34902 0.345098
+Kd 0.223529 0.466667 0.509804
+Ks 0.454902 0.454902 0.454902
+Ns 1
+d 1
+
+newmtl mat28
+Ka 0.929412 0.403922 0.403922
+Kd 0.968628 0.541176 0.435294
+Ks 0.431373 0.431373 0.431373
+Ns 1
+d 1
+
+newmtl mat29
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 1
+d 1
+
+newmtl mat30
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat31
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+d 1
+map_Kd ./TX/m_head_3.tga
+
+newmtl mat32
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 0
+d 1
+map_Kd ./TX/tex_Fp.tga
+
+newmtl mat33
+Ka 0.0666667 0.301961 0.733333
+Kd 0.0976 0.6024 0.8
+Ks 1 1 1
+Ns 1
+d 0.1
+
+newmtl mat34
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 0.44
+
+newmtl mat35
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.01 0.01 0.01
+Ns 0
+d 0.98
+map_Kd ./TX/tex_Fp.tga
+

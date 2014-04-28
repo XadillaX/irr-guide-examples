@@ -1,0 +1,176 @@
+newmtl mat0
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd tex_kao.tga
+
+newmtl mat1
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ns 5
+d 1
+map_Kd tex_kao.tga
+
+newmtl mat2
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 0
+d 1
+map_Kd tex_eyes2_base.tga
+
+newmtl mat3
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 0
+d 1
+map_Kd tex_eyes2r.tga
+
+newmtl mat4
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 0
+d 1
+map_Kd tex_eyes2.tga
+
+newmtl mat5
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 10
+d 1
+map_Kd tex_kami.tga
+
+newmtl mat6
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd tex_body.tga
+
+newmtl mat7
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd tex_body.tga
+
+newmtl mat8
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+map_Kd tex_body.tga
+
+newmtl mat9
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd tex_kao.tga
+
+newmtl mat10
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ns 5
+d 0.99
+map_Kd tex_kao.tga
+
+newmtl mat11
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 5
+d 1
+map_Kd tex_fuku0.tga
+
+newmtl mat12
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 5
+d 1
+map_Kd tex_furisode.tga
+
+newmtl mat13
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Ns 20
+d 1
+map_Kd tex_fuku0.tga
+
+newmtl mat14
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 0.999
+map_Kd tex_kami.tga
+
+newmtl mat15
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+map_Kd tex_kami.tga
+
+newmtl mat16
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 20
+d 1
+map_Kd tex_fuku0.tga
+
+newmtl mat17
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 0.5
+d 1
+map_Kd tex_skirt.tga
+
+newmtl mat18
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd tex_skirt.tga
+
+newmtl mat19
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd tex_body.tga
+
+newmtl mat20
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 0.98
+map_Kd tex_aka.tga
+
+newmtl mat21
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 0.99
+map_Kd tex_ribbon.tga
+
